@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! My Name is Alex:
 Third Year Software Engineering Student at QUT.
 
 
